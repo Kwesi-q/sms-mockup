@@ -57,7 +57,7 @@ const Login = () => {
         <div className="text-center mb-8">
           <Link to="/" className="inline-flex items-center space-x-2 text-white hover:text-school-gold transition-colors">
             <GraduationCap className="h-8 w-8" />
-            <span className="text-2xl font-bold">Excellence Academy</span>
+            <span className="text-2xl font-bold">Gazania Amara Montessori</span>
           </Link>
           <p className="text-blue-100 mt-2">Access Your Portal</p>
         </div>

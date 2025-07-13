@@ -28,14 +28,14 @@ const AdminDashboard = () => {
 
   const [applications] = useState([
     { id: 1, name: "Sarah Johnson", grade: "5th Grade", status: "pending", date: "2024-01-15", parent: "Mike Johnson" },
-    { id: 2, name: "David Chen", grade: "3rd Grade", status: "approved", date: "2024-01-14", parent: "Lisa Chen" },
+    { id: 2, name: "David Tsatu", grade: "3rd Grade", status: "approved", date: "2024-01-14", parent: "Lisa Tsatu" },
     { id: 3, name: "Emma Williams", grade: "2nd Grade", status: "review", date: "2024-01-13", parent: "Tom Williams" }
   ]);
 
   const [students] = useState([
     { id: 1, name: "Alex Thompson", grade: "4th Grade", class: "4A", teacher: "Mrs. Davis", status: "active" },
     { id: 2, name: "Maria Garcia", grade: "6th Grade", class: "6B", teacher: "Mr. Wilson", status: "active" },
-    { id: 3, name: "James Lee", grade: "5th Grade", class: "5A", teacher: "Ms. Brown", status: "active" }
+    { id: 3, name: "James Opoku", grade: "5th Grade", class: "5A", teacher: "Ms. Brown", status: "active" }
   ]);
 
   return (
@@ -47,7 +47,7 @@ const AdminDashboard = () => {
             <div className="flex items-center space-x-2">
               <GraduationCap className="h-8 w-8 text-school-gold" />
               <div>
-                <h1 className="text-2xl font-bold text-school-navy">Excellence Academy</h1>
+                <h1 className="text-2xl font-bold text-school-navy">Gazania Amara Montessori</h1>
                 <p className="text-sm text-gray-600">Administrator Dashboard</p>
               </div>
             </div>

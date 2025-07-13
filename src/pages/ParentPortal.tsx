@@ -74,7 +74,7 @@ const ParentPortal = () => {
             <div className="flex items-center space-x-2">
               <GraduationCap className="h-8 w-8 text-school-gold" />
               <div>
-                <h1 className="text-2xl font-bold text-school-navy">Excellence Academy</h1>
+                <h1 className="text-2xl font-bold text-school-navy">Gazania Amara Montessori</h1>
                 <p className="text-sm text-gray-600">Parent Portal - Welcome, Johnson Family</p>
               </div>
             </div>
@@ -286,14 +286,14 @@ const ParentPortal = () => {
                         <p className="font-medium text-school-navy">Monthly Tuition</p>
                         <p className="text-sm text-gray-600">Dec 15, 2023</p>
                       </div>
-                      <p className="font-semibold text-green-600">$450 ✓</p>
+                      <p className="font-semibold text-green-600">GHC 450 ✓</p>
                     </div>
                     <div className="flex justify-between items-center p-3 bg-green-50 rounded-lg">
                       <div>
                         <p className="font-medium text-school-navy">Activity Fee</p>
                         <p className="text-sm text-gray-600">Dec 10, 2023</p>
                       </div>
-                      <p className="font-semibold text-green-600">$75 ✓</p>
+                      <p className="font-semibold text-green-600">GHC 75 ✓</p>
                     </div>
                   </div>
                 </CardContent>

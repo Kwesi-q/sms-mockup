@@ -13,7 +13,7 @@ const Index = () => {
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-2">
               <GraduationCap className="h-8 w-8 text-school-gold" />
-              <h1 className="text-2xl font-bold text-school-navy">Excellence Academy</h1>
+              <h1 className="text-2xl font-bold text-school-navy">Gazania Amara Montessori</h1>
             </div>
             <nav className="hidden md:flex space-x-6">
               <a href="#about" className="text-school-navy hover:text-school-light-blue transition-colors">About</a>
@@ -32,7 +32,7 @@ const Index = () => {
             Shaping Tomorrow's Leaders
           </h2>
           <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
-            Join Excellence Academy where academic excellence meets character development in a nurturing environment.
+            Join Gazania Amara Montessori where academic excellence meets character development in a nurturing environment.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" className="bg-school-gold hover:bg-yellow-500 text-black font-semibold px-8 py-4">
@@ -50,7 +50,7 @@ const Index = () => {
       {/* Features Section */}
       <section className="py-16 bg-white">
         <div className="container mx-auto px-4">
-          <h3 className="text-3xl font-bold text-center text-school-navy mb-12">Why Choose Excellence Academy?</h3>
+          <h3 className="text-3xl font-bold text-center text-school-navy mb-12">Why Choose Gazania Amara Montessori?</h3>
           <div className="grid md:grid-cols-3 gap-8">
             <Card className="text-center hover:shadow-lg transition-shadow">
               <CardHeader>
@@ -136,7 +136,7 @@ const Index = () => {
             <div>
               <div className="flex items-center space-x-2 mb-4">
                 <GraduationCap className="h-6 w-6 text-school-gold" />
-                <h4 className="font-bold">Excellence Academy</h4>
+                <h4 className="font-bold">Gazania Amara Montessori</h4>
               </div>
               <p className="text-gray-300">Nurturing minds, building futures.</p>
             </div>
@@ -166,7 +166,7 @@ const Index = () => {
             </div>
           </div>
           <div className="border-t border-gray-700 mt-8 pt-8 text-center text-gray-300">
-            <p>&copy; 2024 Excellence Academy. All rights reserved.</p>
+            <p>&copy; 2025 Gazania Amara Montessori. All rights reserved.</p>
           </div>
         </div>
       </footer>

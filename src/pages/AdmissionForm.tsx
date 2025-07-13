@@ -347,7 +347,7 @@ const AdmissionForm = () => {
           <div className="flex items-center justify-between">
             <Link to="/" className="flex items-center space-x-2">
               <GraduationCap className="h-8 w-8 text-school-gold" />
-              <h1 className="text-2xl font-bold text-school-navy">Excellence Academy</h1>
+              <h1 className="text-2xl font-bold text-school-navy">Gazania Amara Montessori</h1>
             </Link>
             <div className="text-sm text-gray-600">
               Application Form

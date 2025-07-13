@@ -49,7 +49,7 @@ const PaymentPage = () => {
           <div className="container mx-auto px-4 py-4">
             <Link to="/" className="flex items-center space-x-2">
               <GraduationCap className="h-8 w-8 text-school-gold" />
-              <h1 className="text-2xl font-bold text-school-navy">Excellence Academy</h1>
+              <h1 className="text-2xl font-bold text-school-navy">Gazania Amara Montessori</h1>
             </Link>
           </div>
         </header>
@@ -61,7 +61,7 @@ const PaymentPage = () => {
                 <div className="mb-6">
                   <CheckCircle className="h-16 w-16 text-green-500 mx-auto mb-4" />
                   <h2 className="text-3xl font-bold text-school-navy mb-2">Application Submitted!</h2>
-                  <p className="text-gray-600">Thank you for applying to Excellence Academy</p>
+                  <p className="text-gray-600">Thank you for applying to Gazania Amara Montessori</p>
                 </div>
 
                 <div className="bg-school-gray p-6 rounded-lg mb-6">
@@ -111,7 +111,7 @@ const PaymentPage = () => {
         <div className="container mx-auto px-4 py-4">
           <Link to="/" className="flex items-center space-x-2">
             <GraduationCap className="h-8 w-8 text-school-gold" />
-            <h1 className="text-2xl font-bold text-school-navy">Excellence Academy</h1>
+            <h1 className="text-2xl font-bold text-school-navy">Gazania Amara Montessori</h1>
           </Link>
         </div>
       </header>
@@ -235,7 +235,7 @@ const PaymentPage = () => {
                     type="submit" 
                     className="w-full bg-school-gold hover:bg-yellow-500 text-black font-semibold py-3"
                   >
-                    Process Payment - $150.00
+                    Process Payment - GHC 150.00
                   </Button>
                 </form>
               </CardContent>
@@ -250,16 +250,16 @@ const PaymentPage = () => {
                 <CardContent className="space-y-4">
                   <div className="flex justify-between py-2">
                     <span>Application Fee</span>
-                    <span className="font-semibold">$150.00</span>
+                    <span className="font-semibold">GHC 150.00</span>
                   </div>
                   <div className="flex justify-between py-2 text-sm text-gray-600">
                     <span>Processing Fee</span>
-                    <span>$0.00</span>
+                    <span>GHC 0.00</span>
                   </div>
                   <div className="border-t pt-2">
                     <div className="flex justify-between font-bold text-lg">
                       <span>Total</span>
-                      <span className="text-school-gold">$150.00</span>
+                      <span className="text-school-gold">GHC 150.00</span>
                     </div>
                   </div>
                 </CardContent>

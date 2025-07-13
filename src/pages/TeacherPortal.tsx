@@ -90,7 +90,7 @@ const TeacherPortal = () => {
             <div className="flex items-center space-x-2">
               <GraduationCap className="h-8 w-8 text-school-gold" />
               <div>
-                <h1 className="text-2xl font-bold text-school-navy">Excellence Academy</h1>
+                <h1 className="text-2xl font-bold text-school-navy">Gazania Amara Montessori</h1>
                 <p className="text-sm text-gray-600">Teacher Portal - {teacher.name}</p>
               </div>
             </div>
